@@ -1,0 +1,54 @@
+.bigbox{
+    background-color: lightblue;
+    width: 70%;
+    height: 700px;
+    border: 5px solid gold;
+    border-radius: 30px;
+}
+
+.box1{
+    background: url(../images/dogsix.png);
+    background-size: 100% 100%;
+    margin-top: 20px;
+    width: 95%;
+    height: 300px;
+    border: 5px solid white;
+    border-radius: 30px;
+}
+
+
+.box2{
+    margin-top: 20px;
+    width: 95%;
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+.box3{
+    background: url(../images/dg.gif);
+    background-size: 100% 100%;
+    width: 30%;
+    height: 300px;
+    border: 5px solid yellow;
+    border-radius: 30px;
+}
+
+.box4{
+    background: url(../images/dg1.gif);
+    background-size: 100% 100%;
+    width: 30%;
+    height: 300px;
+    border: 5px solid yellow;
+    border-radius: 30px;
+}
+
+.box5{
+    background: url(../images/dg2.gif);
+    background-size: 100% 100%;
+    width: 30%;
+    height: 300px;
+    border: 5px solid yellow;
+    border-radius: 30px;
+
+}

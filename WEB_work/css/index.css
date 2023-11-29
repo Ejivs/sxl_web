@@ -1,0 +1,44 @@
+.banner{
+    /* background:url(../images/dog2.webp); */
+    background-color: bisque;
+    width: 70%;
+    height: 700px;
+    border: 5px solid gold;
+    display: flex;
+    flex-direction: column;
+    border-radius: 30px;
+}
+
+
+.banner .box1{
+    width: 90%;
+    height: 200px;
+    border: 5px solid red;
+    margin-top: 20px;
+    border-radius: 30px;
+    background:url("../images/dog.webp");
+    background-size: 100% 100%;
+    /* margin-left: 130px; */
+}
+
+.banner .box2{
+    width: 90%;
+    height: 200px;
+    border: 5px solid orange;
+    margin-top: 20px;
+    border-radius: 30px;
+    background:url("../images/dog3.webp");
+    background-size: 100% 100%;
+    /* margin-left: 130px; */
+}
+
+.banner .box3{
+    width: 90%;
+    height: 200px;
+    border: 5px solid aqua;
+    margin-top: 20px;
+    border-radius: 30px;
+    background:url("../images/dog4.webp");
+    background-size: 100% 100%;
+    /* margin-left: 130px; */
+}
