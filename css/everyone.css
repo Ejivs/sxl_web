@@ -1,0 +1,74 @@
+*{
+    text-decoration: none;
+    list-style: none;
+    margin: 0 auto;
+}
+
+header{
+    /* margin: 0 auto; */
+    width: 70%;
+    height: 100px;
+    background-color: papayawhip;
+    border: 5px solid orange;
+    border-radius: 30px;
+    /* background:url(../images/dog2.webp); */
+    /* background-size: 100%;
+    font-size: 100px 100px; */
+} 
+
+header p{
+    padding-top: 5px;
+    padding-left: 7px;
+    color: aqua;
+    font-size: 30px;
+}
+
+.nav{
+    margin-left: 100px;
+}
+
+.logoleft{
+    background: url("../images/god1.webp");
+    color: white;
+    /* border: 1px solid hotpink; */
+    background-size: 100% 100%;
+    width: 15%;
+    height: 99%;
+    float: left;
+}
+
+.logoright{
+    background: url("../images/dog2.webp");
+    width: 10%;
+    height: 99%;
+    float: right;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+
+.nav ul li a{
+    color: orange;
+    float: left;
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: 20px;
+    border: 3px solid white;
+    background-color: skyblue;
+    border-radius: 30px;
+}
+
+
+.footer{
+    background-color: tan;
+    width: 70%;
+    color: white;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 20px;
+    height: 50px;
+    border: 5px solid orange;
+    border-radius: 30px;
+    /* background: url(../images/dog6.png); */
+    background-size: 100% 100%;
+}
